@@ -14,7 +14,12 @@
       "subtitle": "Tu będą informacje i shake",
       "detailTitle": "Informacje dnia",
       "detailText": "To jest przykładowa informacja.",
-      "imageUrl": "https://png.pngtree.com/png-clipart/20210120/ourmid/pngtree-smile-3d-emoji-icon-with-transparent-background-png-image_2766932.jpg"
+      "imageUrl": "https://png.pngtree.com/png-clipart/20210120/ourmid/pngtree-smile-3d-emoji-icon-with-transparent-background-png-image_2766932.jpg",
+      "extraMessages": [
+        "Info 1 - pierwsza wiadomość",
+        "Info 2 - druga wiadomość",
+        "Info 3 - trzecia wiadomość"
+      ]
     }
   ]
 }
