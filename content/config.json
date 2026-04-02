@@ -1,1 +1,14 @@
-
+{
+  "categories": [
+    {
+      "id": "wishes",
+      "title": "Życzenia",
+      "subtitle": "Tu będą życzenia i obrazki"
+    },
+    {
+      "id": "info",
+      "title": "Informacje",
+      "subtitle": "Tu będą informacje i shake"
+    }
+  ]
+}
