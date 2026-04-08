@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "wishes",
+      "title": "Życzenia",
+      "subtitle": "Tu będą życzenia i obrazki",
+      "detailTitle": "Dzień Dziadka",
+      "detailText": "Wszystkiego najlepszego! Dużo zdrowia, spokoju i radości każdego dnia.",
+      "imageUrl": "https://bambulky.elpopo.cz/3972-large_default/diamantove-malovani-obrazek-kocka.jpg",
+      "extraMessages": []
+    },
+    {
+      "id": "info",
+      "title": "Informacje",
+      "subtitle": "Tu będą informacje i shake",
+      "detailTitle": "Informacje dnia",
+      "detailText": "To jest przykładowa informacja.",
+      "imageUrl": "https://raw.githubusercontent.com/UHKstudy/MileZyczenia/refs/heads/main/content/img/infowiki.png",
+      "extraMessages": [
+        "Informacja 1: Pamiętaj, aby robić krótkie przerwy podczas pracy.",
+        "Informacja 2: Dobrze ustawiony monitor zmniejsza zmęczenie oczu.",
+        "Informacja 3: Regularny ruch poprawia koncentrację."
+      ]
+    },
+    {
+      "id": "humor",
+      "title": "Humor",
+      "subtitle": "Krótkie żarty i poprawa humoru",
+      "detailTitle": "Strefa humoru",
+      "detailText": "Tu znajdziesz kilka lekkich żartów na poprawę dnia.",
+      "imageUrl": "https://raw.githubusercontent.com/UHKstudy/MileZyczenia/refs/heads/main/content/img/humor.png",
+      "extraMessages": [
+        "Kawał 1: Programista poszedł do sklepu po chleb. Wrócił z mlekiem, bo było napisane: 'jeśli są jajka, weź też mleko'.",
+        "Kawał 2: Ilu programistów potrzeba do wymiany żarówki? Żadnego, to problem sprzętowy.",
+        "Kawał 3: Debugowanie: usuwanie igły ze stogu siana, do którego samemu wrzuciło się dodatkowe igły."
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Zdrowie",
+      "subtitle": "Dieta i praca przy komputerze",
+      "detailTitle": "Zdrowie i komputer",
+      "detailText": "Podczas pracy przy komputerze warto dbać o dietę, nawodnienie i prawidłową postawę ciała.",
+      "imageUrl": "https://raw.githubusercontent.com/UHKstudy/MileZyczenia/refs/heads/main/content/img/Stethoscope.png",
+      "extraMessages": [
+        "Zdrowie 1: Pij regularnie wodę, bo odwodnienie pogarsza koncentrację.",
+        "Zdrowie 2: Nie siedź bez przerwy. Wstań co 30–60 minut i poruszaj się chwilę.",
+        "Zdrowie 3: Przy komputerze staraj się trzymać proste plecy i monitor na wysokości wzroku."
+      ]
+    }
+  ]
+}
